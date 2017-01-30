@@ -1,1 +1,2 @@
 # Python_slides
+These are the slides I gave for a presentation at the University of Regina in Canada circa summer 2015.  A lot of it is rather specific to our school / province, and I did a lot of talking that is not written down.  But I thought I may as well put them up on github.
